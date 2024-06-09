@@ -4,3 +4,12 @@
 [submodule "PhotoGallery"]
 	path = PhotoGallery
 	url = https://github.com/DavidPK8/PhotoGallery.git
+[submodule "FireBaseUbicacion"]
+	path = FireBaseUbicacion
+	url = https://github.com/DavidPK8/FireBaseUbicacion.git
+[submodule "devdac"]
+	path = devdac
+	url = https://github.com/DavidPK8/devdac.git
+[submodule "ArchivosFireBase"]
+	path = ArchivosFireBase
+	url = https://github.com/DavidPK8/ArchivosFireBase.git
