@@ -1,0 +1,6 @@
+[submodule "MyCV"]
+	path = MyCV
+	url = https://github.com/DavidPK8/MyCV.git
+[submodule "PhotoGallery"]
+	path = PhotoGallery
+	url = https://github.com/DavidPK8/PhotoGallery.git
