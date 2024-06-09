@@ -13,3 +13,6 @@
 [submodule "ArchivosFireBase"]
 	path = ArchivosFireBase
 	url = https://github.com/DavidPK8/ArchivosFireBase.git
+[submodule "ChatIonic"]
+	path = ChatIonic
+	url = https://github.com/DavidPK8/ChatIonic.git
